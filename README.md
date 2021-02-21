@@ -1,1 +1,1 @@
-i just edited the CSS file
+i just edited style.css
